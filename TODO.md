@@ -4,4 +4,4 @@
 - make project-2 public
 
 Sidenote:
-- cleaning up the repo includes a lot of translating (duthc -> english) in docs
+- cleaning up the repo includes a lot of translating (dutch -> english) in docs
