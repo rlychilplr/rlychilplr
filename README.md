@@ -4,8 +4,8 @@ I'm Sander Dijkstra but online i usually go by rlychilplr
 
  - I'm currently a student at Techniek College Rotterdam
    - currently webdevelopment (html, css, js, php, mysql)
-    - [Why no public repo's?](https://github.com/rlychilplr/rlychilplr/blob/main/TODO.md)
- - I'm learning rust 
+ - I'm learning rust
+ - [Why no public repo's?](https://github.com/rlychilplr/rlychilplr/blob/main/TODO.md)
 <!--
 **rlychilplr/rlychilplr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
