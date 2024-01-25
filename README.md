@@ -3,7 +3,7 @@ I'm Sander Dijkstra but online i usually go by rlychilplr
 
 
  - I'm currently a student at Techniek College Rotterdam
-   - currently webdevelopment (html, css, js, php, mysql)
+   - subject this year is webdevelopment (html, css, js, php, mysql)
  - I'm learning rust
  - [Why no public repo's?](https://github.com/rlychilplr/rlychilplr/blob/main/TODO.md)
 <!--
