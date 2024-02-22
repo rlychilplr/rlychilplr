@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sander Dijkstra but online i usually go by rlychilplr
+I'm Sander but online i usually go by rlychilplr
 
 
  - I'm currently a student at Techniek College Rotterdam
