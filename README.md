@@ -2,7 +2,7 @@
 I'm Sander but online i usually go by rlychilplr
 
  - I'm currently a student at Techniek College Rotterdam
-   - this school year we will be tought: html, css, js, php, mysql
+   - the first year we will be/are tought: html, css, js, php, mysql and wordpress
    - for my elective part i chose to delve into docker
  - I'm learning rust (slowly since it isn't tought at school so i have to do it in my free time)
 <!--
