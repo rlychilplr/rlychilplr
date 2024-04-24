@@ -1,11 +1,10 @@
 ### Hi there 👋
 I'm Sander but online i usually go by rlychilplr
 
-
  - I'm currently a student at Techniek College Rotterdam
-   - subject this year is webdevelopment (html, css, js, php, mysql)
- - I'm learning rust
- - [Why no public repo's?](https://github.com/rlychilplr/rlychilplr/blob/main/TODO.md)
+   - this school year we will be tought: html, css, js, php, mysql
+   - for my elective part i chose to delve into docker
+ - I'm learning rust (slowly since it isn't tought at school so i have to do it in my free time)
 <!--
 **rlychilplr/rlychilplr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
